@@ -18,11 +18,12 @@
 
 | 프로젝트 | 내용 | 내 역할 |
 |---|---|---|
-| [wantedcat](https://github.com/customer0907/wantedcat) | 빅프로젝트(6인): 그릇 무게 센서 + 홈캠 + YOLO로 고양이별 식사·음수 자동 기록 | AI 모델(YOLO11 파인튜닝 실험), UI/UX 디자인 |
+| [wantedcat](https://github.com/customer0907/wantedcat) | 빅프로젝트(6인): 그릇 무게 센서 + 홈캠 + YOLO로 고양이별 식사·음수 자동 기록 | UI/UX 디자인, 기획(아이디어 리뷰·의사결정 매트릭스) |
 | [aivlemini5_2](https://github.com/customer0907/aivlemini5_2) | 미니프로젝트(7인): 이벤트 기반 MSA 도서 서비스 | 포인트 서비스 구현 |
 
 ## 경력
 - **아이나비시스템즈** 지도기술개발팀 IPP 일학습병행 (2024.08 ~ 2025.02) — 주행 로그 기반 오프로드 분류 QGIS 플러그인 단독 개발 (Python · PostGIS · PyQt)
+- **개인 서비스** 실시간 음성 AI 대화 서비스 1인 기획·개발·운영 (2026.08 ~, 웹·Android·iOS, 유료 매출 발생) — 대형 벤더 음성 AI 통합, 결제 연동, 레드팀 보안 테스트, 정량·정성 사용자 테스트
 
 ## 학습 기록
 - [codetree-TILs](https://github.com/customer0907/codetree-TILs) · [Baekjoon](https://github.com/customer0907/Baekjoon) — 알고리즘 풀이
